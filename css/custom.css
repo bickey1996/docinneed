@@ -1,0 +1,24 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.navbar-inverse {
+	background-color: cadetblue; 
+	border-color: white;
+}
+.navbar-inverse .navbar-brand {
+    color:black;
+}
+.navbar-inverse .navbar-nav li a {
+    color: black;
+    font-weight: bold;
+    font-size: 22pcadetx;
+}
+.jumbotron{
+	
+	background-image:url(../images/doc_image1.jpg);
+
+.btn-lg{
+	font-size: 36px;
+}
